@@ -1,4 +1,4 @@
-# C# algorithm for crest recognition
+# C# algorithm for crest recognition (needs to be improved)
 https://www.cnblogs.com/bethansy/p/10560341.html
 
 <img src="chart.png" />
